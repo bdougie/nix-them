@@ -11,8 +11,10 @@ body {
 	height: 100%;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1.5em;
+	min-height: 75rem;
+    	padding-top: 4.5rem;
 }
-
+/*add padding to separate fixed navbar*/
 #green-terminal {
 	color: #00ff00;
 }
